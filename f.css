@@ -1,0 +1,49 @@
+body{
+
+	background: "fussion.jpg";
+
+}
+#victim{ display: -webkit-flex;
+	display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+	border: 1px solid #c3c3c3;
+	color: goldenrod;
+	border-color: darkorange;
+	padding: 10px;
+	text-shadow: 12px 15px 18px seagreen;
+	font-size: 100px;
+	font-family: sans-serif;
+	}
+  h2{animation: mymove 5s infinite;
+       padding: 10px;
+       font-size: 60px;
+       border: dotted;
+       text-shadow: goldenrod;
+       font-family: sans-serif;
+       border-color: seagreen ;
+       text-align: center;
+}
+a:hover{
+text-decoration: underline;
+font-size: 30px;
+color: black
+}
+.home{
+	display: initial;
+	padding: 20px;
+	font-family: sans-serif;
+	position: left;
+	text-align: left;
+	border: double;
+	background:seagreen;
+	border-color: lavenderblush;
+
+}
+a{
+	text-decoration: none;
+	color: blue;
+	text-align-last: left;
+}
